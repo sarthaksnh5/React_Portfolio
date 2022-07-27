@@ -23,13 +23,16 @@
 }
 .contact-btn {
   margin-right: 20px;
+  padding: 10px;
   text-decoration: none;
   color: #464646;
+  border-radius: 20px;
 }
 .contact-btn:hover {
   margin-right: 20px;
   text-decoration: none;
   background-color: #ec704c;
+  color: '#fff',
 }
 @media (max-width: 1024px) {
   .about {

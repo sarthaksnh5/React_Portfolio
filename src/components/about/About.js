@@ -31,10 +31,10 @@ export const About = () => {
         <div className="about">
           <div className="_img"
             style={{ 
-              background: "url(" + profile + ")",
-              backgroundSize: 'contain',
+              background: "url(" + profile + ")",              
               backgroundPosition: 'center',
               backgroundRepeat: 'no-repeat',
+              backgroundSize: 'contain'
             }}
           >
           </div>

@@ -1,69 +1,51 @@
 {
     "basics": {
-        "name": "Mark Tan",
-        "label": "Web Developer",
-        "email": "markcmtan@gmail.com",
-        "phone": "(XXX) XXX-XXXX",
-        "picture": "mt.png",
+        "name": "Sarthak Lamba",
+        "label": "Full Stack Developer",
+        "email": "sarthaksnh5@gmail.com",
+        "phone": "+91 9056317518",
+        "picture": "sarthak.png",
         "x_title": "Hello, I'm",
-        "job1": "Web",
+        "job1": "Full Stack",
         "job2": "Developer",
-        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
-        "summary": "based in Angeles, Philippines.",
-        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
-        "url": "https://taniyow.vercel.app/",
+        "description": "Hello! I'm Sarthak! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "summary": "based in Chandigarh, India.",
+        "keywords": "",
+        "url": "https://sarthaksnh5.github.io",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Angeles",
-            "country": "Philippines",
-            "countryCode": "PH",
-            "region": "Pampanga"
+            "city": "Chandigarh",
+            "country": "India",
+            "countryCode": "IN",
+            "region": "Chandigarh"
         },
         "profiles": [
             {
                 "network": "Google",
-                "username": "markcmtan@gmail.com",
-                "url": "mailto:markcmtan@gmail.com",
+                "username": "sarthaksnh5@gmail.com",
+                "url": "mailto:sarthaksnh5@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "mcmtan",
-                "url": "https://www.linkedin.com/in/mcmtan/",
+                "username": "sarthak",
+                "url": "",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "taniyow",
-                "url": "https://github.com/taniyow",
+                "username": "sarthaksnh5",
+                "url": "https://github.com/sarthaksnh5",
                 "x_icon": "fab fa-github"
-            },
-            {
-                "network": "GitLab",
-                "username": "taniyow",
-                "url": "https://gitlab.com/taniyow",
-                "x_icon": "fab fa-gitlab"
-            },
-            {
-                "network": "Telegram",
-                "username": "marktaniyow",
-                "url": "https://t.me/marktaniyow",
-                "x_icon": "fab fa-telegram-plane"
-            },
-            {
-                "network": "Discord",
-                "username": "taniyow#9142",
-                "url": "https://discord.com",
-                "x_icon": "fab fa-discord"
-            }
+            }            
         ]
     },
     "work": [
         {
             "company": "Company",
             "position": "President",
-            "website": "http://company.com",
+            "website": "",
             "startDate": "2013-01-01",
             "endDate": "2014-01-01",
             "summary": "Description...",
@@ -113,12 +95,12 @@
         {
             "name": "Web Development",
             "level": "Master",
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["HTML", "CSS", "Javascript", "React", "Flutter", "React Native"]
         }
     ],
     "languages": [
         {
-            "language": "German",
+            "language": "Hindi",
             "fluency": "Native speaker"
         },
         {
@@ -138,7 +120,7 @@
     ],
     "references": [
         {
-            "name": "Jane Doe",
+            "name": "Sarthak",
             "reference": "Reference..."
         }
     ]
